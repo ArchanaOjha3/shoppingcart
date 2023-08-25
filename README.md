@@ -33,7 +33,7 @@ The project is structured as follows:
 
 - React for building the user interface.
 - Redux for state management of the selected size.
-- Redux Saga for managing side effects, such as storing the selected size in local storage.
+- Redux Saga for managing side effects, such as storing the selected size in cookie.
 - `react-responsive-carousel` for implementing the mobile-friendly image carousel.
 - Tailwind CSS for styling and responsive layout.
 
